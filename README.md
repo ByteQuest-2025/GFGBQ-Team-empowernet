@@ -109,14 +109,14 @@ Powered entirely by **Google Gemini models**, VitalSense understands user data, 
 # **Tech Stack**
 
 ### **Frontend**
-- Next.js / React  
+- Next.js + React  
 - Tailwind CSS  
-- Zustand / Redux  
+- Zustand + Redux  
 
 ### **Backend**
 - Node.js  
 - Express  
-- MongoDB / Firebase  
+- MongoDB
 
 ### **AI**
 - **Gemini API**
