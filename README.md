@@ -119,10 +119,12 @@ Powered entirely by **Google Gemini models**, VitalSense understands user data, 
 - MongoDB / Firebase  
 
 ### **AI**
-- **Gemini API**  
+- **Gemini API**
 
 ### **IoT**
 - Smart device integrations  
-- Realtime sync engine  
+- Realtime sync engine
+
+PPT LINK - https://docs.google.com/presentation/d/1_In0-H7b080WVv-PoCSdtH9DF4hm08sf/edit?usp=sharing&ouid=111800602755650853812&rtpof=true&sd=true
 
 
